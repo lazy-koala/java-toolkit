@@ -22,7 +22,7 @@
         <mysql.version>8.0.16</mysql.version>
         <redis.clients.version>3.2.0</redis.clients.version>
         <org.mongodb.version>3.8.2</org.mongodb.version>
-        <com.thoughtworks.xstream.version>1.4.16</com.thoughtworks.xstream.version>
+        <com.thoughtworks.xstream.version>1.4.17</com.thoughtworks.xstream.version>
         <net.sf.ehcache.version>2.6.11</net.sf.ehcache.version>
         <cglib.version>3.2.8</cglib.version>
         <javax.mail.version>1.5.0-b01</javax.mail.version>
